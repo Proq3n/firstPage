@@ -4,3 +4,4 @@
 - Ad, Soyad
 - Hakkımda 
 - Ve Diğer Paragraf
+-Görseller ve listeler
